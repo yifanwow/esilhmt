@@ -33,10 +33,10 @@
   主要以记录回忆为主。
 
 #### 【十二月的晚安】：
-  记录我在12/01/2019至01/01/2020其间所编写的分享日志。
-  每一篇文章会有一首诗，一支歌，以及一些个人的感想。
+  记录我在12/01/2019至01/01/2020其间所编写的分享日志。  
+  每一篇文章会有一首诗，一支歌，以及一些个人的感想。  
 
-  最后，希望你能喜欢我的文字。
-  早安，晚安。
+  最后，希望你能喜欢我的文字。  
+  早安，晚安。  
 
-![清晨](https://github.com/yifanwow/esilhmt/blob/main/image/IMG_8233.PNG?raw=true)
+<img src="https://github.com/yifanwow/esilhmt/blob/main/image/IMG_8233.PNG?raw=true" alt="清晨" width="426" height="568">
