@@ -20,7 +20,7 @@
 
 ### 以下是现阶段的子菜单列表：
 
-#### 【无关风月】：
+#### [&#8203;``【oaicite:0】``&#8203;](./「无关风月」Poetry/)
   主要以诗歌为主，也是主要更新的内容。
 
 #### 【白马非马】：
@@ -39,4 +39,4 @@
   最后，希望你能喜欢我的文字。  
   早安，晚安。  
 
-<img src="https://github.com/yifanwow/esilhmt/blob/main/image/IMG_8233.PNG?raw=true" alt="清晨" width="426" height="568">
+<img src="./images/清晨.PNG" alt="清晨" width="500">
