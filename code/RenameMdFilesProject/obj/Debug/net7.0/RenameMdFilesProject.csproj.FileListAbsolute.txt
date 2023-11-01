@@ -1,0 +1,15 @@
+D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\out\RenameMdFilesProject.exe
+D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\out\RenameMdFilesProject.deps.json
+D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\out\RenameMdFilesProject.runtimeconfig.json
+D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\out\RenameMdFilesProject.dll
+D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\out\RenameMdFilesProject.pdb
+D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\obj\Debug\net7.0\RenameMdFilesProject.csproj.AssemblyReference.cache
+D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\obj\Debug\net7.0\RenameMdFilesProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\obj\Debug\net7.0\RenameMdFilesProject.AssemblyInfoInputs.cache
+D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\obj\Debug\net7.0\RenameMdFilesProject.AssemblyInfo.cs
+D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\obj\Debug\net7.0\RenameMdFilesProject.csproj.CoreCompileInputs.cache
+D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\obj\Debug\net7.0\RenameMdFilesProject.dll
+D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\obj\Debug\net7.0\refint\RenameMdFilesProject.dll
+D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\obj\Debug\net7.0\RenameMdFilesProject.pdb
+D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\obj\Debug\net7.0\RenameMdFilesProject.genruntimeconfig.cache
+D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\obj\Debug\net7.0\ref\RenameMdFilesProject.dll
