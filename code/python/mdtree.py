@@ -24,7 +24,7 @@ def mdtree(directory, prefix="", startpath=None):
         else:
             # 移除.md扩展名
             display_name = os.path.splitext(entry)[0]
-            tree.append(f"- [{display_name}]({relative_path})")
+            tree.append(f"{prefix}- [{display_name}]({relative_path})")
 
     return tree
 
