@@ -15,14 +15,16 @@ def mdtree(directory, prefix="", startpath=None):
     tree = []
     for entry in entries:
         path = os.path.join(directory, entry)
-        relative_path = os.path.relpath(path, startpath)  # 获取相对路径
+        relative_path = os.path.relpath(path, startpath).replace("\\", "/")  # 获取相对路径并替换反斜杠
 
         # 根据是文件还是文件夹，使用不同的Markdown格式
         if os.path.isdir(path):
             tree.append(f"{prefix}- **{entry}/**")
             tree.extend(mdtree(path, prefix + "  ", startpath))
         else:
-            tree.append(f"{prefix}- [{entry}]({relative_path})")
+            # 移除.md扩展名
+            display_name = os.path.splitext(entry)[0]
+            tree.append(f"- [{display_name}]({relative_path})")
 
     return tree
 
