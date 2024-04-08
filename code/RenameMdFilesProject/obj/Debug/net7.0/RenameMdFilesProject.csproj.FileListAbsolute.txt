@@ -13,3 +13,8 @@ D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\obj\Debug\net7.0\refint\Re
 D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\obj\Debug\net7.0\RenameMdFilesProject.pdb
 D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\obj\Debug\net7.0\RenameMdFilesProject.genruntimeconfig.cache
 D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\obj\Debug\net7.0\ref\RenameMdFilesProject.dll
+D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\bin\Debug\net7.0\RenameMdFilesProject.exe
+D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\bin\Debug\net7.0\RenameMdFilesProject.deps.json
+D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\bin\Debug\net7.0\RenameMdFilesProject.runtimeconfig.json
+D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\bin\Debug\net7.0\RenameMdFilesProject.dll
+D:\Git-hub\Yifanwow\esilhmt\code\RenameMdFilesProject\bin\Debug\net7.0\RenameMdFilesProject.pdb
