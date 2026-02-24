@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RenameMdFilesProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aeaa5358e2d40317bb99ebab424c8e5221b4a82c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0683d96736cf4f0f7c8d5f12164639b66920c31a")]
 [assembly: System.Reflection.AssemblyProductAttribute("RenameMdFilesProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RenameMdFilesProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
